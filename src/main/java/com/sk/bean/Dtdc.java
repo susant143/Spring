@@ -10,6 +10,7 @@ public class Dtdc
 	public Dtdc() {
 		System.out.println("Dtdc 0-param Constructor Executed");
 		System.out.println("Auto Wire Constructor Executed ");
+		System.out.println("This is Dtdc Github application");
 	}
    public void setItem(String[] item){
 	  System.out.println("SetItem() method Executed");
